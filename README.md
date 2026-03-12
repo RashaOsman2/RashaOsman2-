@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Rasha Osman 👋
+# Hey, I'm Yeasin Osman Rashha 👋
 ### Software Engineering Student · App Developer · Creative Builder
 
 *"Great software is not only about functionality — it's about creating experiences people love."*
