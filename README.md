@@ -37,7 +37,7 @@ I don't just learn theory — I build. Every project I create is a challenge to 
 - > ⚠️ *Note: Some parts of the UI may still show "LifeBond" — the app was previously named Blood Connect → LifeBond → RoktoLagbe? and is still being updated*
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/RashaOsman2/rokto-lagbeWebApp)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify)](https://rokto-lagbewebap.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify)](https://lagberokto.netlify.app)
 
 ---
 
@@ -50,7 +50,7 @@ I don't just learn theory — I build. Every project I create is a challenge to 
 - Designed for real-world pharmacy business operations
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/RashaOsman2/Anarika-pharmacy-management-system)
-
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify)](https://anarika-pharmacy.netlify.app/shop)
 ---
 
 ### 📱 RoktoLagbe? — Android App
