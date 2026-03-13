@@ -68,7 +68,7 @@ I don't just learn theory — I build. Every project I create is a challenge to 
 
 - Built with pure **HTML · CSS · JavaScript · Three.js**
 - Custom cursor, scroll reveal, interactive 3D scene, particle effects
-- Live at: [your-portfolio-url.com](https://your-portfolio-url.com)
+- Live at: [https://rashaportfolio.netlify.app](https://rashaportfolio.netlify.app)
 
 ---
 
